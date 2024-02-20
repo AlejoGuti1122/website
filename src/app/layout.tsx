@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={urbanist.className}>
         {children}
         <Footer />
-        </body>
+      </body>
     </html>
   )
 }
